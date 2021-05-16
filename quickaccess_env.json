@@ -1,0 +1,72 @@
+﻿{
+    "toTrayonClose":  false,
+    "height":  320,
+    "toggleStartStop_StartAction":  "start",
+    "XLocation":  1511,
+    "YLocation":  302,
+    "currentlySelectedHosts":  "localhost",
+    "ColumnHeadersHeight":  30,
+    "width":  340,
+    "font":  "나눔바른펜",
+    "refreshInterval":  1,
+    "hostList":  [
+                     "dangerousapp",
+                     "localhost",
+                     "untrustedsites"
+                 ],
+    "foreColor":  [
+                      255,
+                      255,
+                      255,
+                      255
+                  ],
+    "behaviorAfterExecution":  "doNothing",
+    "alwaysOnTop":  false,
+    "backColor":  [
+                      255,
+                      0,
+                      0,
+                      0
+                  ],
+    "HyperVProcessName":  "vmconnect",
+    "msgBoxColor":  [
+                        255,
+                        226,
+                        226,
+                        226
+                    ],
+    "turnoff_confirm":  false,
+    "listenerTimeLimit":  8,
+    "doubleClickAction":  "startAndConnect",
+    "StartPosition":  "lastLocation",
+    "noLogWrite":  false,
+    "toggleStartStop_StopAction":  "save",
+    "setHeaderHeightManually":  true,
+    "fontstyle":  1,
+    "turnOnWMIEventWatcher":  true,
+    "messageAreaHeight":  59,
+    "border":  1,
+    "spaceKeyAction":  "none",
+    "disconnectWhenStopVM":  true,
+    "fontSize":  10,
+    "borderColor":  [
+                        255,
+                        0,
+                        0,
+                        0
+                    ],
+    "columnsWidth":  [
+                         80,
+                         100,
+                         142,
+                         73
+                     ],
+    "tasksOnStarting":  null,
+    "enterKeyAction":  "start",
+    "startMinimized":  false,
+    "msgQsize":  18,
+    "wheelAction":  "changeSelection",
+    "rightClickAction":  "menu",
+    "middleClickAction":  "none",
+    "rowspacing":  0
+}
