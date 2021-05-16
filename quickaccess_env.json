@@ -4,7 +4,10 @@
     "toggleStartStop_StartAction":  "start",
     "XLocation":  1511,
     "YLocation":  302,
-    "currentlySelectedHosts":  "localhost",
+    "currentlySelectedHosts":  [
+                     "dangerousapp",
+                     "localhost"
+        ],
     "ColumnHeadersHeight":  30,
     "width":  340,
     "font":  "나눔바른펜",
